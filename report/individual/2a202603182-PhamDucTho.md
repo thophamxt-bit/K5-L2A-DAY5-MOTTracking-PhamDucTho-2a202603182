@@ -6,13 +6,13 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Mã đề (A/B/C):
-- Email:
+- Họ tên: Phạm Đức Thọ
+- MSSV:2a202603182
+- Mã đề (A/B/C):B
+- Email:Thophamxt@gmail.com
 - Link repository:
-- Giờ bắt đầu:
-- Giờ kết thúc:
+- Giờ bắt đầu:16h30
+- Giờ kết thúc:19h
 
 ## 1. Xem trước đoạn video (CP0)
 
